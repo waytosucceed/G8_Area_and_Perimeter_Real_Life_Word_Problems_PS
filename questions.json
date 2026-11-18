@@ -1,0 +1,324 @@
+{
+  "heading": "G8_Area And Perimeter Real Life Word Problems",
+  "topics": [
+    {
+      "heading": "Area And Perimeter Real Life Word Problems",
+      "questions": [
+
+  {
+    "questionNo": 1,
+    "question": [
+      "A playground is made by joining a rectangular field and a square play area as shown.<br><img src='./assests/images/question/1.png' width='30%'><br>Artificial grass costs $4 per m².",
+      "What is the total cost of covering the entire playground with artificial grass?<br>Answer = $______"
+    ],
+    "input": [
+      ""
+    ],
+    "answer": [
+      "304"
+    ]
+  },
+  {
+    "questionNo": 2,
+    "question": [
+      "A decorative signboard consists of a square with a triangular top, as shown.<br><img src='./assests/images/question/2.png' width='30%'><br>The front surface is to be painted.",
+      "If painting costs $5 per m², what is the total painting cost?<br>Answer = $______"
+    ],
+    "input": [
+      ""
+    ],
+    "answer": [
+      "240"
+    ]
+  },
+  {
+    "questionNo": 3,
+    "question": [
+      "A flower bed has a rectangular middle section with a triangular section attached at each end, as shown.<br><img src='./assests/images/question/3.png' width='30%'><br>Fertiliser is needed for the entire flower bed.",
+      "If 1 bag covers 10 m², how many bags are required?<br>Answer = ______ bags"
+    ],
+    "input": [
+      ""
+    ],
+    "answer": [
+      "6"
+    ]
+  },
+  {
+    "questionNo": 4,
+    "question": [
+      "A park has a parallelogram-shaped lawn with a triangular flower garden attached to one side, as shown.<br><img src='./assests/images/question/4.png' width='30%'><br>Grass seed costs $3 per m².",
+      "How much will it cost to cover the entire lawn?<br>Answer = $______"
+    ],
+    "input": [
+      ""
+    ],
+    "answer": [
+      "198"
+    ]
+  },
+  {
+    "questionNo": 5,
+    "question": [
+      "Two triangular gardens are joined together as shown.<br><img src='./assests/images/question/5.png' width='30%'><br>A gardener wants to spread mulch over the whole garden.",
+      "If one bag covers 8 m², how many bags are needed?<br>Answer = ______ bags"
+    ],
+    "input": [
+      ""
+    ],
+    "answer": [
+      "4"
+    ]
+  },
+  {
+    "questionNo": 6,
+    "question": [
+      "A community park consists of a rectangular lawn, a square play area and a triangular flower bed, as shown.<br><img src='./assests/images/question/6.png' width='30%'><br>The entire park is to be covered with new turf costing $2 per m².",
+      "What is the total cost?<br>Answer = $______"
+    ],
+    "input": [
+      ""
+    ],
+    "answer": [
+      "136"
+    ]
+  },
+  {
+    "questionNo": 7,
+    "question": [
+      "A building has an L-shaped floor plan, as shown.<br><img src='./assests/images/question/7.png' width='30%'><br>A skirting board will be installed all around the edge of the floor.",
+      "The skirting board costs $8 per m. What is the total cost of the skirting board?<br>Answer = $______"
+    ],
+    "input": [
+      ""
+    ],
+    "answer": [
+      "384"
+    ]
+  },
+  {
+    "questionNo": 8,
+    "question": [
+      "A rectangular lawn has a square pond removed, as shown.<br><img src='./assests/images/question/8.png' width='30%'><br>A decorative fence will be installed all around the edge of the lawn, including the edges of the pond opening.",
+      "The fencing costs $5 per m. What is the total cost of the fencing?<br>Answer = $______"
+    ],
+    "input": [
+      ""
+    ],
+    "answer": [
+      "280"
+    ]
+  },
+  {
+    "questionNo": 9,
+    "question": [
+      "A rectangular garden has a square storage shed built, as shown.<br><img src='./assests/images/question/9.png' width='30%'><br>A rope border is placed around the both boundaries of the garden.",
+      "If one roll of rope is 4 m long, how many rolls are needed?<br>Answer = ______ rolls"
+    ],
+    "input": [
+      ""
+    ],
+    "answer": [
+      "17"
+    ]
+  },
+  {
+    "questionNo": 10,
+    "question": [
+      "A rectangular park has a triangular section reserved for a fountain, as shown.<br><img src='./assests/images/question/10.png' width='30%'><br>A safety barrier is to be placed around the outside edge of the remaining park.",
+      "Each roll of barrier is 5 m long. How many rolls are required?<br>Answer = ______ rolls"
+    ],
+    "input": [
+      ""
+    ],
+    "answer": [
+      "6"
+    ]
+  },
+  {
+    "questionNo": 11,
+    "question": [
+      "A rubber border is to be placed around the outside of the parallelogram-shaped sports court.<br>One side measures <b>1600 cm</b> and the other side measures <b>13 m</b>.<br>",
+      "How many metres of border are required?<br>Answer = ______ m"
+    ],
+    "input": [
+      ""
+    ],
+    "answer": [
+      "58"
+    ]
+  },
+  {
+    "questionNo": 12,
+    "question": [
+      "A rectangular classroom floor measures <b>900 cm by 7 m</b>.<br>Vinyl flooring costs <b>$24 per m²</b>.<br>The school has a budget of <b>$1,600</b>.",
+      "<br>Will the budget be enough?"
+    ],
+    "options": [
+      {
+        "text": "Yes"
+      },
+      {
+        "text": "No"
+      }
+    ],
+    "answer": 0
+  },
+  {
+    "questionNo": 13,
+    "question": [
+      "A rectangular notice board measures <b>420 cm by 2.4 m</b>.<br>Wooden trim will be placed around the edge.<br>Liam says that <b>13.2 m</b> of trim is needed.<br>Rose says that <b>12.8 m</b> of trim is needed.",
+      "<br>Who is correct?"
+    ],
+    "options": [
+      {
+        "text": "Liam"
+      },
+      {
+        "text": "Rose"
+      }
+    ],
+    "answer": 0
+  },
+  {
+    "questionNo": 14,
+    "question": [
+      "A square garden has sides measuring <b>0.02 km</b>.<br>Oliver has <b>85 m</b> of bricks to build a border around the garden.",
+      "<br>Does Oliver have enough bricks?"
+    ],
+    "options": [
+      {
+        "text": "Yes"
+      },
+      {
+        "text": "No"
+      }
+    ],
+    "answer": 0
+  },
+  {
+    "questionNo": 15,
+    "question": [
+      "A rectangular roof measures <b>1800 cm</b> by <b>8 m</b>.<br>Solar panels cost <b>$220 per m²</b>.<br>Emma says it will cost <b>$31,680</b> to cover the roof.<br>Jack says it will cost <b>$30,800</b> to cover the roof.<br>",
+      "Who is correct?"
+    ],
+    "options": [
+      {
+        "text": "Emma"
+      },
+      {
+        "text": "Jack"
+      }
+    ],
+    "answer": 0
+  },
+  {
+    "questionNo": 16,
+    "question": [
+      "A triangular tent roof has a base of <b>1600 cm</b> and a perpendicular height of <b>10 m</b>.<br>Canvas costs <b>$20 per m²</b>.<br>The organiser has <b>$1,700</b> to buy the canvas.<br>",
+      "Is this enough money?"
+    ],
+    "options": [
+      {
+        "text": "Yes"
+      },
+      {
+        "text": "No"
+      }
+    ],
+    "answer": 0
+  },
+  {
+    "questionNo": 17,
+    "question": [
+      "A rectangular sports field measures <b>0.05 km</b> long and <b>20 m</b> wide.<br>A rope is placed all around the field.<br>The coach bought <b>150 m</b> of rope.",
+      "<br>Will all of the rope be used? If not, how many metres will be left over?"
+    ],
+    "options": [
+      {
+        "text": "Yes"
+      },
+      {
+        "text": "No, 10 m will be left over."
+      },
+      {
+        "text": "No, 5 m will be left over."
+      },
+      {
+        "text": "No, 10 m more will be needed."
+      }
+    ],
+    "answer": 1
+  },
+  {
+    "questionNo": 18,
+    "question": [
+      "A kite-shaped sports court has diagonals measuring <b>3 m</b> and <b>1800 mm</b>. Each pair of equal sides measures <b>2.5 m</b>.",
+      "A protective fence will be installed all around the court at <b>$24 per metre</b>. The entire court will also be covered with a synthetic surface costing <b>$45 per m²</b>.<br> What is the total cost of installing the fence and covering the court?<br>Answer = $______"
+    ],
+    "input": [
+      ""
+    ],
+    "answer": [
+      "361.50"
+    ]
+  },
+  {
+    "questionNo": 19,
+    "question": [
+      "A rhombus-shaped garden has diagonals measuring <b>280 cm</b> and <b>1.5 m</b>. Each side measures <b>1.7 m</b>.",
+      "A decorative border will be installed around the garden at <b>$18 per metre</b>. The whole garden will also be covered with decorative stones costing <b>$28 per m²</b>. <br>What is the total cost of completing the garden?<br>Answer = $______"
+    ],
+    "input": [
+      ""
+    ],
+    "answer": [
+      "181.20"
+    ]
+  },
+  {
+    "questionNo": 20,
+    "question": [
+      "A trapezium-shaped picnic area has parallel sides measuring <b>1600 cm</b> and <b>24 m</b>. The other two sides each measure <b>9 m</b>. The perpendicular height is <b>8 m</b>.",
+      "A wooden fence will be installed around the outside at <b>$25 per metre</b>. Artificial grass will be laid over the entire picnic area at <b>$16 per m²</b>. <br>What is the total cost of fencing the picnic area and laying the artificial grass?<br>Answer = $______"
+    ],
+    "input": [
+      ""
+    ],
+    "answer": [
+      "4010"
+    ]
+  },
+  {
+    "questionNo": 21,
+    "question": [
+      "A rectangular classroom floor measures <b>9 m by 6 m.</b><br>",
+      "Square tiles with side length <b>30 cm</b> are used to cover the floor. The tiles fit exactly without cutting.<br> How many tiles are required?<br>Answer = ______ tiles"
+    ],
+    "input": [
+      ""
+    ],
+    "answer": [
+      "600"
+    ]
+  },
+  {
+    "questionNo": 22,
+    "question": [
+      "A square courtyard has side length <b>12 m</b>.",
+      "Rectangular paving slabs measuring <b>2 m by 1 m</b> are laid without cutting or overlapping. <br>How many paving slabs are needed?<br>Answer = ______ slabs"
+    ],
+    "input": [
+      ""
+    ],
+    "answer": [
+      "72"
+    ]
+  }
+
+
+
+      ]
+    }
+  ]
+}
